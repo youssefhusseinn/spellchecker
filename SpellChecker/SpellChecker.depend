@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582291698 source:d:\coding\codeblocks\projects\spellchecker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
